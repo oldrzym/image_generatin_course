@@ -35,12 +35,10 @@
 
 - Исходное изображение и его отображение в латентном пространстве:
 
-![Исходный стиль](image_path)
 ![image](https://github.com/user-attachments/assets/36f3852b-4d6a-4166-bcb2-27453d19ad90)
 
 - Трансфер стиля:
 
-![Трансфер стиля](image_path)
 ![image](https://github.com/user-attachments/assets/37730be3-7020-4455-b649-feb65d6e6cba)
 
 ![image](https://github.com/user-attachments/assets/f8b0e8f1-c8fd-4ffe-a845-820f1f799eef)
@@ -54,17 +52,14 @@
 - **Улыбка** — индексы от 0 до 5.
 ![image](https://github.com/user-attachments/assets/4641e758-b794-46b9-a6ca-66274855bcde)
 
-  ![Улыбка](image_path)
 
 - **Возраст** — индексы от 0 до 9.
 ![image](https://github.com/user-attachments/assets/0f22c5d4-c726-40bf-b954-eb96f3f8b2fe)
 
-  ![Возраст](image_path)
 
 - **Поворот головы** — индексы от 0 до 6.
 ![image](https://github.com/user-attachments/assets/100d66ae-30b7-490b-abcf-9520f82c5bba)
 
-  ![Поворот головы](image_path)
 
 ---
 
@@ -75,7 +70,6 @@
 - EMerphy - LDCaprio - Stethem.
 ![image](https://github.com/user-attachments/assets/99659bbd-06e0-41d5-a4c6-cb479168bfa9)
 
-  ![FaceSwap](image_path)
 
 ---
 
