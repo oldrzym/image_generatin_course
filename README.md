@@ -1,5 +1,5 @@
 # Обработка и генерация изображений
-## Репозиторий Китаева Сергея
+## Репозиторий Калиновского Константина
 
 ### Задача
 **ДЗ 2. Имплементация GAN с изображениями 128x128**
@@ -29,7 +29,7 @@
 
 - Изменение **batch size**: `output6`
 ![image](https://github.com/user-attachments/assets/7ad0660d-d86e-4d13-b9c1-135eeeb7f13a)
-![image](https://github.com/user-attachments/assets/543ab8ad-2787-4206-98d9-8a122dc107d8)
+![image](https://github.com/user-attachments/assets/4444e694-b884-4950-b844-a0fa965b72c3)
 
 ### Результаты:
 - Успешное обучение GAN.
